@@ -8,7 +8,7 @@
 23/09/2021 // But everyone who will be working on the project will keep in mind the possibility of a renaming script.
 
 24/09/2021 // Used Softwares :\
-24/09/2021 // ... - VSCodium https://vscodium.com/\
-24/09/2021 // ... - Laragon https://laragon.org/\
-24/09/2021 // ... - Composer https://getcomposer.org/download/\
+24/09/2021 // ... - VSCodium https://vscodium.com/ \
+24/09/2021 // ... - Laragon https://laragon.org/ \
+24/09/2021 // ... - Composer https://getcomposer.org/download/ \
 24/09/2021 // ... - Paint.net https://www.getpaint.net/
