@@ -16,7 +16,7 @@ But everyone who will be working on the project will keep in mind the possibilit
 7. [Installation](#installation)
 8. [Developpement](#developpement)
 9. [-](#-)
-10. [-](#-)
+10. [Market analysis](#market-analysis)
 11. [What's new ?](#what-s-new)
 
 ## Features
