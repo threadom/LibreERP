@@ -13,11 +13,11 @@ But everyone who will be working on the project will keep in mind the possibilit
 5. [Software requirements](#software-requirements)
     1. [Server requirements](#server-requirements)
     2. [Client requirements](#client-requirements)
-7. [Installation](#installation)
-8. [Developpement](#developpement)
+6. [Installation](#installation)
+7. [Developpement](#developpement)
+8. [-](#-)
 9. [-](#-)
-10. [Market analysis](#market-analysis)
-11. [What's new ?](#what-s-new)
+10. [What's new ?](#what-s-new)
 
 ## Features
 * Products
