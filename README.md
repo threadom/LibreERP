@@ -8,7 +8,7 @@ But everyone who will be working on the project will keep in mind the possibilit
 
 # Table of contents
 1. [Features](#features)
-2. [Screen captures](#screen captures)
+2. [Screen captures](#screencaptures)
 3. [Demonstration](#demonstration)
 5. [Software requirement](#softwarerequirement)
     1. [Server requirement](#serverrequirement)
