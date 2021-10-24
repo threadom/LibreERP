@@ -32,13 +32,16 @@ But everyone who will be working on the project will keep in mind the possibilit
     * Consumables (inputs, outputs, remains, inventories)
     * Articles (inputs, outputs, remains, inventories)
 
-> Look into documentations folders for informations about features.
+###### [Look into documents/features/ folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/features)
+###### [Look into documents/market_analysis/ folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/market_analysis)
 
 ## Screen captures
 Look into screen_captures folders for more screen captures.
 * Products
 * Entities
 * Stocks
+
+###### [Look into documents/screen_captures/ folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/screen_captures)
 
 ## Demonstration
 
@@ -69,8 +72,7 @@ Look into screen_captures folders for more screen captures.
 * Git / Github                      >= 2.33.0
 * GIMP                              >= 
 
-## Market analysis
-[Look into documents/market_analysis folders for details.]()
+###### [Look into documents/developpement/starter/ folder for more.](https://github.com/threadom/LibreERP/tree/main/developpement/starter)
 
 ## What's new
 * ### 2021
