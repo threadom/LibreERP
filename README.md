@@ -8,7 +8,7 @@ But everyone who will be working on the project will keep in mind the possibilit
 
 # Table of contents
 1. [Features](#features)
-2. [Screen captures](#features)
+2. [Screen captures](#screen_captures)
 3. [Demonstration](#demonstration)
 5. [Software requirement](#softwarerequirement)
     1. [Server requirement](#serverrequirement)
@@ -19,7 +19,7 @@ But everyone who will be working on the project will keep in mind the possibilit
 10. [-](#-)
 11. [What's new ?](#whatsnew)
 
-## Features :
+## Features
 * Products
     * Documents, Manufacturing sheet, Quality
 * Entities :
@@ -34,7 +34,8 @@ But everyone who will be working on the project will keep in mind the possibilit
 
 > Look into documentations folders for informations about features.
 
-## Screen captures : Look into screen_captures folders for more screen captures.
+## Screen captures
+Look into screen_captures folders for more screen captures.
 * Products
 * Entities
 * Stocks
