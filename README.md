@@ -13,6 +13,9 @@ But everyone who will be working on the project will keep in mind the possibilit
 5. Server requirement
 6. Production installation
 6. Developpement tools
+7. -
+8. -
+9. What's new ?
 
 ---
 #### Features :
@@ -32,13 +35,15 @@ But everyone who will be working on the project will keep in mind the possibilit
 
 #### Screen captures : Look into screen_captures folders for more screen captures.
 * Products
-* Clients
-    * Clients Commands 
-* Supppliers
-* Subcontrators
+* Entities
+* Stocks
 
 ---
-### What new History :
+#### Production Softwares :
+* Microsoft Edge                    >= 94.0.992
+* Opera                             >= 
+* Firefox                           >=
+* Chrome                            >=
 
 ---
 #### Server requirements :
@@ -59,11 +64,5 @@ But everyone who will be working on the project will keep in mind the possibilit
 * Git / Github                      >= 2.33.0
 * GIMP                              >= 
 
----
-#### Production Softwares :
-* Microsoft Edge                    >= 94.0.992
-* Opera                             >= 
-* Firefox                           >=
-* Chrome                            >=
 
 
