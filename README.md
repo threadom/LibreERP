@@ -82,6 +82,7 @@ Look into screen_captures folders for more screen captures.
 ###### [Look into documents/developpement/first_module folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/developpement/starter)
 
 ## What's new
+`Here will be stated the new and next features to be implemented.`
 * ### 2021
     * #### November
         * Create modular structure for laravel, one folder for all
