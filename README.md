@@ -6,6 +6,14 @@ This must be modular without necessity of change any file of core.
 Sorry for everyone but a large part of directories, files, variables, and functions will be probably french named.\
 But everyone who will be working on the project will keep in mind the possibility of a renaming script.
 
+## Table of contents
+1. Features
+2. Screen captures
+3. Demo address
+5. Server requirement
+6. Production installation
+6. Developpement tools
+
 ---
 #### Features :
 * Products
@@ -22,14 +30,18 @@ But everyone who will be working on the project will keep in mind the possibilit
 
 > Look into documentations folders for informations about features.
 
-#### Screen Captures : Look into screen_captures folders for more screen captures.
+#### Screen captures : Look into screen_captures folders for more screen captures.
 * Products
 * Clients
     * Clients Commands 
 * Supppliers
 * Subcontrators
+
 ---
-#### Server Softwares :
+### What new History :
+
+---
+#### Server requirements :
 * require php                       >= 7.4.19
 * require mariadb                   >= 5.7.33
 * require composer                  >= 2.1.7
@@ -42,7 +54,7 @@ But everyone who will be working on the project will keep in mind the possibilit
     * npm install -D chart.js       >= 
 
 ---
-#### Development Softwares :
+#### Development requirements :
 * VSCodium                          >= 1.60.2
 * Git / Github                      >= 2.33.0
 * GIMP                              >= 
