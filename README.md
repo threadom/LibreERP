@@ -1,5 +1,4 @@
 # LibreERP - Open Source Entreprise Ressource Planning
-###### build in PHP with Laravel and MariaDB, using TailWindCSS and TypeScript
 
 App will be oriented to micro async request using api routes.
 This must be modular without necessity of change any file of core.
@@ -16,10 +15,10 @@ But everyone who will be working on the project will keep in mind the possibilit
     * Suppliers (Profile, Billing addresses, Deliveries addresses, Commands, Deliveries, Bills, Credits)
     * Subcontractors (Profile, Billing addresses, Deliveries addresses, Commands, Deliveries, Bills, Credits)
 * Stocks
-    * Raw materials (input, output, remain)
-    * Components (input, output, remain)
-    * Consumables (input, output, remain)
-    * Articles (input, output, remain)
+    * Raw materials (inputs, outputs, remains, inventories)
+    * Components (inputs, outputs, remains, inventories)
+    * Consumables (inputs, outputs, remains, inventories)
+    * Articles (inputs, outputs, remains, inventories)
 
 > Look into documentations folders for informations about features.
 
