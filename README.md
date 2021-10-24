@@ -17,7 +17,7 @@ But everyone who will be working on the project will keep in mind the possibilit
 8. [Developpement](#developpement)
 9. [-](#-)
 10. [-](#-)
-11. [What's new ?](#whatsnew)
+11. [What's new ?](#what-s-new)
 
 ## Features
 * Products
@@ -62,13 +62,21 @@ Look into screen_captures folders for more screen captures.
 * Firefox                           >=
 * Chrome                            >=
 
----
+## Installation
 
----
-## Development requirements :
+## Developpement
 * VSCodium                          >= 1.60.2
 * Git / Github                      >= 2.33.0
 * GIMP                              >= 
 
+## What's new
+### 2021
+#### October
+#### November
+#### December
+### 2022
+#### January
+#### February
+#### Mars
 
 
