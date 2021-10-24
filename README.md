@@ -83,8 +83,8 @@ Look into screen_captures folders for more screen captures.
 
 ## What's new
 * ### 2021
-    * #### October
     * #### November
+        * Create modular structure for laravel, one folder for all
     * #### December
 * ### 2022
     * #### January
