@@ -11,10 +11,10 @@ But everyone who will be working on the project will keep in mind the possibilit
 2. [Screen captures](#features)
 3. [Demo address](#features)
 5. [Software requirement](#softwarerequirement)
-    1. Server requirement
-    2. Client requirement
-7. [Production installation](#productioninstallation)
-8. [Developpement tools](#developpementtools)
+    1. [Server requirement](#serverrequirement)
+    2. [Client requirement](#clientrequirement)
+7. [Installation](#installation)
+8. [Developpement](#developpement)
 9. [-](#-)
 10. [-](#-)
 11. [What's new ?](#whatsnew)
