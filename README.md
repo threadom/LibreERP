@@ -69,6 +69,9 @@ Look into screen_captures folders for more screen captures.
 * Git / Github                      >= 2.33.0
 * GIMP                              >= 
 
+## Market analysis
+[Look into documents/market_analysis folders for details.]()
+
 ## What's new
 * ### 2021
     * #### October
