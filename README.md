@@ -34,5 +34,6 @@ But everyone who will be working on the project will keep in mind the possibilit
 * Chrome                            >=
 
 ---
-#### Docmentations :
-Look into documentations folders for most insformations about functionnalities.
+> #### Docmentations : Look into documentations folders for most informations about functionnalities.
+
+> #### Screen Captures : Look into screen_captures folders for screen captures.
