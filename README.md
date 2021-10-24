@@ -10,9 +10,9 @@ But everyone who will be working on the project will keep in mind the possibilit
 1. [Features](#features)
 2. [Screen captures](#screen-captures)
 3. [Demonstration](#demonstration)
-5. [Software requirement](#softwarerequirement)
-    1. [Server requirement](#serverrequirement)
-    2. [Client requirement](#clientrequirement)
+5. [Software requirements](#software-requirements)
+    1. [Server requirements](#server-requirements)
+    2. [Client requirements](#client-requirements)
 7. [Installation](#installation)
 8. [Developpement](#developpement)
 9. [-](#-)
@@ -40,16 +40,11 @@ Look into screen_captures folders for more screen captures.
 * Entities
 * Stocks
 
-## Demonstratiob :
+## Demonstration
 
-## Production Softwares :
-* Microsoft Edge                    >= 94.0.992
-* Opera                             >= 
-* Firefox                           >=
-* Chrome                            >=
+## Software requirements
 
----
-## Server requirements :
+### Server requirements
 * require php                       >= 7.4.19
 * require mariadb                   >= 5.7.33
 * require composer                  >= 2.1.7
@@ -60,6 +55,14 @@ Look into screen_captures folders for more screen captures.
     * npm install -D ts-loader      >= 
     * npm install -D @types/jquery  >= 
     * npm install -D chart.js       >= 
+
+### Client requirements
+* Microsoft Edge                    >= 94.0.992
+* Opera                             >= 
+* Firefox                           >=
+* Chrome                            >=
+
+---
 
 ---
 ## Development requirements :
