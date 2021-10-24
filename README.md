@@ -70,13 +70,13 @@ Look into screen_captures folders for more screen captures.
 * GIMP                              >= 
 
 ## What's new
-### 2021
-#### October
-#### November
-#### December
-### 2022
-#### January
-#### February
-#### Mars
+* ### 2021
+    * #### October
+    * #### November
+    * #### December
+* ### 2022
+    * #### January
+    * #### February
+    * #### Mars
 
 
