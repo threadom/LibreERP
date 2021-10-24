@@ -32,8 +32,8 @@ But everyone who will be working on the project will keep in mind the possibilit
     * Consumables (inputs, outputs, remains, inventories)
     * Articles (inputs, outputs, remains, inventories)
 
-###### [Look into documents/features/ folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/features)
-###### [Look into documents/market_analysis/ folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/market_analysis)
+###### [Look into documents/features folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/features)
+###### [Look into documents/market_analysis folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/market_analysis)
 
 ## Screen captures
 Look into screen_captures folders for more screen captures.
@@ -41,7 +41,7 @@ Look into screen_captures folders for more screen captures.
 * Entities
 * Stocks
 
-###### [Look into documents/screen_captures/ folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/screen_captures)
+###### [Look into documents/screen_captures folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/screen_captures)
 
 ## Demonstration
 
@@ -59,20 +59,27 @@ Look into screen_captures folders for more screen captures.
     * npm install -D @types/jquery  >= 
     * npm install -D chart.js       >= 
 
+###### [Look into documents/requirements/server folder for more.](https://github.com/threadom/LibreERP/tree/main/requirements/server)
+
 ### Client requirements
 * Microsoft Edge                    >= 94.0.992
 * Opera                             >= 
 * Firefox                           >=
 * Chrome                            >=
 
+###### [Look into documents/requirements/client folder for more.](https://github.com/threadom/LibreERP/tree/main/requirements/client)
+
 ## Installation
+
+###### [Look into documents/installation folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/installation)
 
 ## Developpement
 * VSCodium                          >= 1.60.2
 * Git / Github                      >= 2.33.0
 * GIMP                              >= 
 
-###### [Look into documents/developpement/starter/ folder for more.](https://github.com/threadom/LibreERP/tree/main/developpement/starter)
+###### [Look into documents/developpement/starter folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/developpement/starter)
+###### [Look into documents/developpement/first_module folder for more.](https://github.com/threadom/LibreERP/tree/main/documents/developpement/starter)
 
 ## What's new
 * ### 2021
