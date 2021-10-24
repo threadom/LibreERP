@@ -7,15 +7,17 @@ Sorry for everyone but a large part of directories, files, variables, and functi
 But everyone who will be working on the project will keep in mind the possibility of a renaming script.
 
 ## Table of contents
-1. Features
-2. Screen captures
-3. Demo address
-5. Server requirement
-6. Production installation
-6. Developpement tools
-7. -
-8. -
-9. What's new ?
+1. [Features](#features)
+2. [Screen captures](#features)
+3. [Demo address](#features)
+5. [Software requirement](#softwarerequirement)
+    1. Server requirement
+    2. Client requirement
+7. [Production installation](#productioninstallation)
+8. [Developpement tools](#developpementtools)
+9. [-](#-)
+10. [-](#-)
+11. [What's new ?](#whatsnew)
 
 ---
 #### Features :
