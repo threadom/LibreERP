@@ -90,7 +90,11 @@ Look into screen_captures folders for more screen captures.
     * #### December
 * ### 2022
     * #### January
+        * Made Entity Profile controller and view, for Create, Read, Update, Delete
+        * Create Entities list controller to list all entities
+        * Extend Entity Profile
     * #### February
+        * 
     * #### Mars
 
 
