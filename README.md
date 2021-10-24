@@ -8,6 +8,28 @@ Sorry for everyone but a large part of directories, files, variables, and functi
 But everyone who will be working on the project will keep in mind the possibility of a renaming script.
 
 ---
+#### Features :
+* Products
+    * Documents, Manufacturing sheet, Quality
+* Entities :
+    * Clients (Profile, Billing addresses, Deliveries addresses, Commands, Deliveries, Bills, Credits)
+    * Suppliers (Profile, Billing addresses, Deliveries addresses, Commands, Deliveries, Bills, Credits)
+    * Subcontractors (Profile, Billing addresses, Deliveries addresses, Commands, Deliveries, Bills, Credits)
+* Stocks
+    * Raw materials (input, output, remain)
+    * Components (input, output, remain)
+    * Consumables (input, output, remain)
+    * Articles (input, output, remain)
+
+> Look into documentations folders for informations about features.
+
+#### Screen Captures : Look into screen_captures folders for more screen captures.
+* Products
+* Clients
+    * Clients Commands 
+* Supppliers
+* Subcontrators
+---
 #### Server Softwares :
 * require php                       >= 7.4.19
 * require mariadb                   >= 5.7.33
@@ -33,7 +55,4 @@ But everyone who will be working on the project will keep in mind the possibilit
 * Firefox                           >=
 * Chrome                            >=
 
----
-> #### Docmentations : Look into documentations folders for most informations about functionnalities.
 
-> #### Screen Captures : Look into screen_captures folders for screen captures.
